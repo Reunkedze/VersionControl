@@ -1,1 +1,1 @@
-# This is version controle stydy directory.
+# This is version controle study directory.
